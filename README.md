@@ -1,5 +1,10 @@
 # Device Manager per Windows: rilasci
 
+> **Device Manager ora si chiama Unusable.** Le versioni nuove escono in
+> [giacomofuria/unusable-releases](https://github.com/giacomofuria/unusable-releases):
+> installa Unusable una volta da lì, e riprende impostazioni, device e accesso
+> all'account. Qui restano le versioni di Device Manager fino alla 3.0.17.
+
 Qui ci sono solo l'installer e gli aggiornamenti di Device Manager: l'app per
 gestire iPad, iPhone e device Android collegati al PC (WebDriverAgent, schermo
 dal vivo, ispettore, team con i colleghi). L'app installata scarica da qui le
